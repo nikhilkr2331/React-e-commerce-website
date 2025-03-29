@@ -1,2 +1,2 @@
-# Advanced React E-commerce Website Starter Files 
+# React E-commerce Website
 
